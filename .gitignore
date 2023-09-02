@@ -1,0 +1,5 @@
+// Add this line to ignore all files in the build directory
+
+# Ignore build directory
+
+node_modules
